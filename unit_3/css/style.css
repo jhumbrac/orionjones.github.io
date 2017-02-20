@@ -1,5 +1,5 @@
 body {
-	font-family: Arial, sans-serif; 
+	font-family: Century, sans-serif; 
 	font-style: normal;
 	background-color: #ffcf40;
 	text-align: center;
@@ -20,7 +20,7 @@ h1, p {
 }
 
 h1 {
-	font-family: Arial, sans-serif;
+	font-family: Century, sans-serif;
 	font-size: 48px;
 	text-decoration: underline;
 	text-transform: uppercase;
