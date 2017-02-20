@@ -6,7 +6,8 @@ body {
 }
 
 body {
-	background-image: url("unit_3/images/iowa_farm.jpg");
+	background-image: url("../images/iowa_farm.jpg");
+	background-size: 100%;
 	background-color: #cccccc;
 }
 
