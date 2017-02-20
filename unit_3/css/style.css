@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Holtwood+One+SC|Lato|Righteous');
+
 body {
-	font-family: Century, sans-serif; 
 	font-style: normal;
 	background-color: #ffcf40;
 	text-align: center;
+	color: #000000;
 }
 
 body {
@@ -15,17 +17,22 @@ hr {
 	width: 200px;
 }
 
-h1, p {
-	color: #000000;
+h1 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 48px;
 }
 
-h1 {
-	font-family: Century, sans-serif;
-	font-size: 48px;
-	text-decoration: underline;
-	text-transform: uppercase;
+h2 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 32px;
 }
 
 p {
-	font-family: Arial, monospace;
+	font-family: 'Lato', sans-serif;
+	outline-width: 30em;
+}
+
+ul {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 14px;
 }
