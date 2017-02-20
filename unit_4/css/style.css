@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Holtwood+One+SC|Lato|Righteous');
+
+body {
+	font-style: normal;
+	background-color: #ffcf40;
+	text-align: center;
+	color: #000000;
+}
+
+body {
+	background-image: url("../images/iowa_farm.jpg");
+	background-size: cover;
+	background-color: #cccccc;
+}
+
+hr {
+	width: 200px;
+}
+
+h1 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 48px;
+}
+
+h2 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 32px;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	outline-width: 30em;
+}
+
+ul {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 14px;
+}
