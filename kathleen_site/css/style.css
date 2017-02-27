@@ -1,0 +1,13 @@
+body {
+	color: blue;
+	font-family: Arial;
+	text-align: right;
+}
+
+div {
+	padding: 10px;
+}
+
+header {
+	background-color: black;
+}

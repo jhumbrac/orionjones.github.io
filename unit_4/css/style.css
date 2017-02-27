@@ -13,9 +13,9 @@ body {
 	background-color: #cccccc;
 }
 
-hr {
+/*hr {
 	width: 200px;
-}
+}*/
 
 h1 {
 	font-family: 'Holtwood One SC', serif;
@@ -32,7 +32,11 @@ p {
 	outline-width: 30em;
 }
 
-ul {
+h3 {
 	font-family: 'Holtwood One SC', serif;
 	font-size: 14px;
+	display: inline-block;
+	border: 5px solid black;
+	margin: .8em;
+
 }
