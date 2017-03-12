@@ -1,0 +1,100 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Holtwood+One+SC|Lato|Righteous');
+
+body {
+	font-style: normal;
+	background-color: #ffcf40;
+	text-align: center;
+	color: #000000;
+}
+
+body {
+	background-image: url("../images/iowa_farm.jpg");
+	background-size: cover;
+	background-color: #cccccc;
+}
+
+
+
+header	{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside	{
+	background-image: url("../images/iowa_farm.jpg");
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article	{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav	{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer	{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section	{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+/*
+div	{
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding: 20px;
+
+}
+*/
+
+/*
+hr {
+	width: 200px;
+}
+*/
+
+
+
+h1 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 48px;
+}
+
+h2 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 32px;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	outline-width: 30em;
+}
+
+h3 {
+	font-family: 'Holtwood One SC', serif;
+	font-size: 14px;
+	font-color: black;
+	display: inline-block;
+	padding: 20px 5px;
+	border: 5px solid black;
+	margin: 0;
+	background-color: orange;
+
+}
+
